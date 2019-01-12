@@ -10,7 +10,7 @@ We have 3 data files churn data , internet data and customer data.
 I have combined  these three files to take all the 21 variables at first site.
 
 
-Note that the in all the three files customerid is in same order hence we have merged it without taking any keys.
+Note that the in all the three files customerid is in same order hence we have merged it without taking any keys into consideration.
 
 
 The model is built using both  Logistic regression as well as PCA.
